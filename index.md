@@ -9,18 +9,20 @@ layout: home
 <img src="duck.jpg" />
 </p>
 
-# 𝛼@ITU – Algorithmic Fairness at ITU 
+# 𝛼Haf – Algorithmic Fairness Copenhagen 
 
-ITU researchers and students interested in fairness, accountability, and transparency aspects of algorithmic decision processes. Everyone welcome.
+Researchers and students in the Copenhagen area interested in fairness, accountability, and transparency aspects of algorithmic decision processes. Everyone welcome.
 
 ## People
 
 - Martin Aumüller
 - Denise Warncke Hansen
+- Inge Li Gørtz
 - Josephine Honore
+- Natalie Schluter
+- Teresa Steiner
 - Thore Husfeldt
 - Troels Bjerre Lund
-- Natalie Schluter
 
 ## Events
 
