@@ -5,6 +5,10 @@
 layout: home
 ---
 
+<p align="center">
+<img src="duck.jpg" />
+</p>
+
 # 𝛼@ITU – Algorithmic Fairness at ITU 
 
 ITU researchers and students interested in fairness, accountability, and transparency aspects of algorithmic decision processes. Everyone welcome.
