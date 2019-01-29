@@ -15,13 +15,13 @@ Researchers and students in the Copenhagen area interested in fairness, accounta
 
 ## People
 
-- Martin Aumüller
 - Denise Warncke Hansen
 - Inge Li Gørtz
 - Josephine Honore
+- Martin Aumüller
 - Natalie Schluter
 - Teresa Steiner
-- Thore Husfeldt
+- Thore Husfeldt (contact)
 - Troels Bjerre Lund
 
 ## Reading Group
