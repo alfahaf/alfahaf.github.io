@@ -30,6 +30,9 @@ See [Reading group](./readinggroup2019/).
 
 ## Events
 
+- Tuesday, 12 Feb 2019, 15:00–16:00. Thore present: Cynthia Dwork et al.:
+Fairness through awareness. Innovations in Theoretical Computer Science 2012: 214-226. [arXiv 1104:3913](https://arxiv.org/abs/1104.3913)
+
 - Tuesday, 5 Feb 2019, 15:00–16:00. Denise and Josephine present: Friedler et al., A comparative study of fairness-enhancing interventions in machine learning, FAT\* '19 Proceedings of the Conference on Fairness, Accountability, and Transparency. Pages 329-338 Atlanta, GA, USA — January 29 - 31, 2019. [arxiv:1802.04422](https://arxiv.org/abs/1802.04422)
 
 - 29–31 January 2019: ACM FAT\* 2019 conference takes place in Atlanta, GA (USA). Livestream is at [https://fatconference.org/2019/livestream.html](https://fatconference.org/2019/livestream.html) (Copenhagen is six hours ahead of Atlanta)
