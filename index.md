@@ -19,6 +19,7 @@ Researchers and students in the Copenhagen area interested in fairness, accounta
 - Inge Li Gørtz
 - Josephine Honore
 - Martin Aumüller
+- Matteo Ceccarello
 - Natalie Schluter
 - Teresa Steiner
 - Thore Husfeldt (contact)
