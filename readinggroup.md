@@ -18,6 +18,11 @@ Fairness through awareness. Innovations in Theoretical Computer Science 2012: 21
 - Sampath Kannon, Aaron Roth, Juba Ziani: Downstream Effects of Affirmative Action, FAT\* 19, [ACM DL](https://dl.acm.org/authorize.cfm?key=N675475)
 - Moritz Hardt, Eric Price, Nathan Srebro: Equality of Opportunity in Supervised Learning
 , NIPS'16. [arxiv 1610.02413](https://arxiv.org/abs/1610.02413)
+- T. Kamishima, S. Akaho, H. Asoh, and J. Sakuma: Fairness-Aware Classifier with Prejudice Remover Regularizer, [ECMLPKDD 2012](https://link.springer.com/chapter/10.1007/978-3-642-33486-3_3) [ResearchGate](https://www.researchgate.net/publication/262176212_Fairness-Aware_Classifier_with_Prejudice_Remover_Regularizer)
+- S. Corbett-Davies, S. Goel: The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning, [arXiv 1898:00023](https://arxiv.org/abs/1808.00023)
+- B. Green, L. Hu: The Myth in the Methodology: Towards a Recontextualization of Fairness in Machine Learning, [ICML18](https://econcs.seas.harvard.edu/files/econcs/files/green_icml18.pdf) 
+-  T. Calders, S. Verwer: Three naive Bayes approaches for discrimination-free classification, [Data Min. Knowl. Discov. 21](https://link.springer.com/article/10.1007%2Fs10618-010-0190-x) [ResearchGate](https://www.researchgate.net/publication/220451718_Three_naive_Bayes_approaches_for_discrimination-free_classification) 
+
 
 ## Additional readings
 
