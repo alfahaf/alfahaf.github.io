@@ -22,7 +22,7 @@ Fairness through awareness. Innovations in Theoretical Computer Science 2012: 21
 - S. Corbett-Davies, S. Goel: The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning, [arXiv 1898:00023](https://arxiv.org/abs/1808.00023)
 - B. Green, L. Hu: The Myth in the Methodology: Towards a Recontextualization of Fairness in Machine Learning, [ICML18](https://econcs.seas.harvard.edu/files/econcs/files/green_icml18.pdf) 
 -  T. Calders, S. Verwer: Three naive Bayes approaches for discrimination-free classification, [Data Min. Knowl. Discov. 21](https://link.springer.com/article/10.1007%2Fs10618-010-0190-x) [ResearchGate](https://www.researchgate.net/publication/220451718_Three_naive_Bayes_approaches_for_discrimination-free_classification) 
-
+- N. Kilbertus, M. Carulla, G. Parascandolo, M. Hardt, D. Janzing, B. Schölkopf: Avoiding discrimination through causal reasoning, [NIPS17](http://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning.pdf)
 
 ## Additional readings
 
